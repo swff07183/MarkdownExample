@@ -15,15 +15,13 @@ markdown
 
 
 박스는 ```세개
-```
-python
+```python
 import haedal include *
 
 print("Hello world!")
 ```
 
-```
-html
+```html
 <html>
     <head>
     </head>
