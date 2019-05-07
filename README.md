@@ -90,6 +90,6 @@ root@goorm:/workspace/MarkdownExample(master)# git commit -m "my first markdown"
 
 원격의 repository에 내 commit을 밀어넣는 작업
 
-```html
+```c
 root@goorm:/workspace/MarkdownExample(master)# git push origin master
 ```
