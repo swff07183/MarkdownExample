@@ -51,10 +51,14 @@
 마크다운 사용법 : [https://gist.github.com/ihoneymon/652be052a0727ad59601](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
 
-## 4. 강조
-\` markdown \` 문법공부하자  
-`markdown` 문법공부하자
+## 4. 강조    
 
+
+\` markdown \` 문법공부하자  
+
+`markdown` 문법공부하자  
+  
+  
 박스는 \`\`\`세개
 
 ```python
@@ -76,20 +80,22 @@ print("Hello world!")
 
 ## 5. Github에 전송하기
 
-snapshot
+* Snapshot : 프로젝트 내 모든 파일의 상태 포착
 
 ```python
 root@goorm:/workspace/MarkdownExample(master)# git add.
 ```
 
-commit
+* Commit : Snapshot을 만드는 행동
 
 ```python
 root@goorm:/workspace/MarkdownExample(master)# git commit -m "my first markdown"
 ```
 
-원격의 repository에 내 commit을 밀어넣는 작업
+* `Pushing` : 원격의 repository에 내 commit을 밀어넣는 작업
 
-```c
+```python
 root@goorm:/workspace/MarkdownExample(master)# git push origin master
-```
+```  
+
+~~끝입니당~~
