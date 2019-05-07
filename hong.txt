@@ -1,5 +1,11 @@
 git add.
 
+snapshot
+
 git commit -m "my first markdown"
 
+commit
+
 git push origin master
+
+원격의 repository에 내 commit을 밀어넣는 작업
