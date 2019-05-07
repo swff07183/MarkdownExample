@@ -62,12 +62,14 @@
 박스는 \`\`\`세개
 
 ```python
+#python
 import haedal include *
 
 print("Hello world!")
 ```
 
 ```html
+<!--html-->
 <html>
     <head>
     </head>
@@ -80,13 +82,13 @@ print("Hello world!")
 
 ## 5. Github에 전송하기
 
-* Snapshot : 프로젝트 내 모든 파일의 상태 포착
+* `Snapshot` : 프로젝트 내 모든 파일의 상태 포착
 
 ```python
-root@goorm:/workspace/MarkdownExample(master)# git add.
+root@goorm:/workspace/MarkdownExample(master)# git add .
 ```
 
-* Commit : Snapshot을 만드는 행동
+* `Commit` : Snapshot을 만드는 행동
 
 ```python
 root@goorm:/workspace/MarkdownExample(master)# git commit -m "my first markdown"
